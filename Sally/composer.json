@@ -1,0 +1,11 @@
+{
+    
+    "name": "4rn0/sally",
+    
+    "require": {
+
+    	"fzaninotto/Faker": "^1.6.0"
+
+    }
+	
+}
